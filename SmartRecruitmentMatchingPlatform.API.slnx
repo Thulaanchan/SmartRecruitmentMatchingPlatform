@@ -1,0 +1,225 @@
+<Solution>
+  <Folder Name="/Configurations/">
+    <File Path=".gitkeep" />
+  </Folder>
+  <Folder Name="/Configurations/EntityConfigurations/" />
+  <Folder Name="/Configurations/JWT/" />
+  <Folder Name="/Configurations/Swagger/" />
+  <Folder Name="/Constants/">
+    <File Path=".gitkeep1" />
+  </Folder>
+  <Folder Name="/Constants/Authentication/" />
+  <Folder Name="/Constants/Common/" />
+  <Folder Name="/Constants/Matching/" />
+  <Folder Name="/Constants/Roles/" />
+  <Folder Name="/Controllers/">
+    <File Path=".gitkeep2" />
+  </Folder>
+  <Folder Name="/Controllers/Admin/" />
+  <Folder Name="/Controllers/Applications/" />
+  <Folder Name="/Controllers/Auth/" />
+  <Folder Name="/Controllers/Companies/" />
+  <Folder Name="/Controllers/ContactRequests/" />
+  <Folder Name="/Controllers/Employers/" />
+  <Folder Name="/Controllers/JobSeekers/" />
+  <Folder Name="/Controllers/Matching/" />
+  <Folder Name="/Controllers/Notifications/" />
+  <Folder Name="/Controllers/Users/" />
+  <Folder Name="/Controllers/Vacancies/" />
+  <Folder Name="/Data/">
+    <File Path=".gitkeep3" />
+  </Folder>
+  <Folder Name="/Data/Context/" />
+  <Folder Name="/Data/Migrations/" />
+  <Folder Name="/Data/Seed/" />
+  <Folder Name="/Extensions/">
+    <File Path=".gitkeep4" />
+  </Folder>
+  <Folder Name="/Extensions/Application/" />
+  <Folder Name="/Extensions/Services/" />
+  <Folder Name="/Helpers/">
+    <File Path=".gitkeep5" />
+  </Folder>
+  <Folder Name="/Helpers/Authentication/" />
+  <Folder Name="/Helpers/Common/" />
+  <Folder Name="/Helpers/Files/" />
+  <Folder Name="/Helpers/Matching/" />
+  <Folder Name="/Interfaces/">
+    <File Path=".gitkeep6" />
+  </Folder>
+  <Folder Name="/Interfaces/Repositories/" />
+  <Folder Name="/Interfaces/Repositories/Applications/" />
+  <Folder Name="/Interfaces/Repositories/Companies/" />
+  <Folder Name="/Interfaces/Repositories/ContactRequests/" />
+  <Folder Name="/Interfaces/Repositories/Employers/" />
+  <Folder Name="/Interfaces/Repositories/JobSeekers/" />
+  <Folder Name="/Interfaces/Repositories/Matching/" />
+  <Folder Name="/Interfaces/Repositories/Notifications/" />
+  <Folder Name="/Interfaces/Repositories/Skills/" />
+  <Folder Name="/Interfaces/Repositories/Users/" />
+  <Folder Name="/Interfaces/Repositories/Vacancies/" />
+  <Folder Name="/Interfaces/Security/" />
+  <Folder Name="/Interfaces/Services/" />
+  <Folder Name="/Interfaces/Services/Admin/" />
+  <Folder Name="/Interfaces/Services/Applications/" />
+  <Folder Name="/Interfaces/Services/Auth/" />
+  <Folder Name="/Interfaces/Services/Companies/" />
+  <Folder Name="/Interfaces/Services/ContactRequests/" />
+  <Folder Name="/Interfaces/Services/Employers/" />
+  <Folder Name="/Interfaces/Services/JobSeekers/" />
+  <Folder Name="/Interfaces/Services/Matching/" />
+  <Folder Name="/Interfaces/Services/Notifications/" />
+  <Folder Name="/Interfaces/Services/Users/" />
+  <Folder Name="/Interfaces/Services/Vacancies/" />
+  <Folder Name="/Interfaces/Storage/" />
+  <Folder Name="/Mappings/">
+    <File Path=".gitkeep7" />
+  </Folder>
+  <Folder Name="/Mappings/Applications/" />
+  <Folder Name="/Mappings/Auth/" />
+  <Folder Name="/Mappings/Companies/" />
+  <Folder Name="/Mappings/Employers/" />
+  <Folder Name="/Mappings/JobSeekers/" />
+  <Folder Name="/Mappings/Matching/" />
+  <Folder Name="/Mappings/Users/" />
+  <Folder Name="/Mappings/Vacancies/" />
+  <Folder Name="/Matching/">
+    <File Path=".gitkeep8" />
+  </Folder>
+  <Folder Name="/Matching/Engine/" />
+  <Folder Name="/Matching/Filtering/" />
+  <Folder Name="/Matching/Ranking/" />
+  <Folder Name="/Matching/Scoring/" />
+  <Folder Name="/Matching/SkillGap/" />
+  <Folder Name="/Middleware/">
+    <File Path=".gitkeep9" />
+  </Folder>
+  <Folder Name="/Middleware/ExceptionHandling/" />
+  <Folder Name="/Middleware/Logging/" />
+  <Folder Name="/Models/">
+    <File Path=".gitkeep10" />
+  </Folder>
+  <Folder Name="/Models/DTOs/" />
+  <Folder Name="/Models/DTOs/Admin/" />
+  <Folder Name="/Models/DTOs/Applications/" />
+  <Folder Name="/Models/DTOs/Auth/" />
+  <Folder Name="/Models/DTOs/Common/" />
+  <Folder Name="/Models/DTOs/Companies/" />
+  <Folder Name="/Models/DTOs/ContactRequests/" />
+  <Folder Name="/Models/DTOs/Employers/" />
+  <Folder Name="/Models/DTOs/JobSeekers/" />
+  <Folder Name="/Models/DTOs/Matching/" />
+  <Folder Name="/Models/DTOs/Notifications/" />
+  <Folder Name="/Models/DTOs/Skills/" />
+  <Folder Name="/Models/DTOs/Users/" />
+  <Folder Name="/Models/DTOs/Vacancies/" />
+  <Folder Name="/Models/Entities/" />
+  <Folder Name="/Models/Entities/Applications/" />
+  <Folder Name="/Models/Entities/Companies/" />
+  <Folder Name="/Models/Entities/ContactRequests/" />
+  <Folder Name="/Models/Entities/Employers/" />
+  <Folder Name="/Models/Entities/JobSeekers/" />
+  <Folder Name="/Models/Entities/Notifications/" />
+  <Folder Name="/Models/Entities/Skills/" />
+  <Folder Name="/Models/Entities/Users/" />
+  <Folder Name="/Models/Entities/Vacancies/" />
+  <Folder Name="/Models/Enums/" />
+  <Folder Name="/Models/Enums/Applications/" />
+  <Folder Name="/Models/Enums/Common/" />
+  <Folder Name="/Models/Enums/ContactRequests/" />
+  <Folder Name="/Models/Enums/Users/" />
+  <Folder Name="/Models/Enums/Vacancies/" />
+  <Folder Name="/Properties/">
+    <File Path=".gitkeep11" />
+  </Folder>
+  <Folder Name="/Repositories/">
+    <File Path=".gitkeep12" />
+  </Folder>
+  <Folder Name="/Repositories/Applications/" />
+  <Folder Name="/Repositories/Companies/" />
+  <Folder Name="/Repositories/ContactRequests/" />
+  <Folder Name="/Repositories/Employers/" />
+  <Folder Name="/Repositories/JobSeekers/" />
+  <Folder Name="/Repositories/Matching/" />
+  <Folder Name="/Repositories/Notifications/" />
+  <Folder Name="/Repositories/Skills/" />
+  <Folder Name="/Repositories/Users/" />
+  <Folder Name="/Repositories/Vacancies/" />
+  <Folder Name="/Services/">
+    <File Path=".gitkeep13" />
+  </Folder>
+  <Folder Name="/Services/Admin/" />
+  <Folder Name="/Services/Applications/" />
+  <Folder Name="/Services/Auth/" />
+  <Folder Name="/Services/Companies/" />
+  <Folder Name="/Services/ContactRequests/" />
+  <Folder Name="/Services/Employers/" />
+  <Folder Name="/Services/JobSeekers/" />
+  <Folder Name="/Services/Matching/" />
+  <Folder Name="/Services/Notifications/" />
+  <Folder Name="/Services/Storage/" />
+  <Folder Name="/Services/Users/" />
+  <Folder Name="/Services/Vacancies/" />
+  <Folder Name="/Storage/">
+    <File Path=".gitkeep14" />
+  </Folder>
+  <Folder Name="/Storage/CompanyLogos/" />
+  <Folder Name="/Storage/CVs/" />
+  <Folder Name="/Storage/ProfileImages/" />
+  <Folder Name="/Validators/">
+    <File Path=".gitkeep15" />
+  </Folder>
+  <Folder Name="/Validators/Applications/" />
+  <Folder Name="/Validators/Auth/" />
+  <Folder Name="/Validators/Common/" />
+  <Folder Name="/Validators/Employers/" />
+  <Folder Name="/Validators/JobSeekers/" />
+  <Folder Name="/Validators/Users/" />
+  <Folder Name="/Validators/Vacancies/" />
+  <Folder Name="/wwwroot/">
+    <File Path=".gitkeep16" />
+    <File Path="index.html" />
+  </Folder>
+  <Folder Name="/wwwroot/assets/" />
+  <Folder Name="/wwwroot/assets/icons/" />
+  <Folder Name="/wwwroot/assets/images/" />
+  <Folder Name="/wwwroot/assets/NewFolder1/" />
+  <Folder Name="/wwwroot/css/" />
+  <Folder Name="/wwwroot/css/admin/" />
+  <Folder Name="/wwwroot/css/auth/" />
+  <Folder Name="/wwwroot/css/common/" />
+  <Folder Name="/wwwroot/css/employer/" />
+  <Folder Name="/wwwroot/css/jobseeker/" />
+  <Folder Name="/wwwroot/css/matching/" />
+  <Folder Name="/wwwroot/js/" />
+  <Folder Name="/wwwroot/js/admin/" />
+  <Folder Name="/wwwroot/js/api/" />
+  <Folder Name="/wwwroot/js/auth/" />
+  <Folder Name="/wwwroot/js/common/" />
+  <Folder Name="/wwwroot/js/employer/" />
+  <Folder Name="/wwwroot/js/jobseeker/" />
+  <Folder Name="/wwwroot/js/matching/" />
+  <Folder Name="/wwwroot/js/notifications/" />
+  <Folder Name="/wwwroot/pages/" />
+  <Folder Name="/wwwroot/pages/admin/" />
+  <Folder Name="/wwwroot/pages/admin/settings/" />
+  <Folder Name="/wwwroot/pages/admin/users/" />
+  <Folder Name="/wwwroot/pages/auth/">
+    <File Path="login.html" />
+    <File Path="register.html" />
+  </Folder>
+  <Folder Name="/wwwroot/pages/employer/" />
+  <Folder Name="/wwwroot/pages/employer/applicants/" />
+  <Folder Name="/wwwroot/pages/employer/candidates/" />
+  <Folder Name="/wwwroot/pages/employer/company/" />
+  <Folder Name="/wwwroot/pages/employer/contactrequests/" />
+  <Folder Name="/wwwroot/pages/employer/profile/" />
+  <Folder Name="/wwwroot/pages/employer/vacancies/" />
+  <Folder Name="/wwwroot/pages/jobseeker/">
+    <File Path="dashboard.html" />
+  </Folder>
+  <Folder Name="/wwwroot/pages/jobseeker/applications/" />
+  <Folder Name="/wwwroot/pages/jobseeker/jobs/" />
+  <Folder Name="/wwwroot/pages/jobseeker/matching/" />
+  <Folder Name="/wwwroot/pages/jobseeker/profile/" />
+</Solution>
