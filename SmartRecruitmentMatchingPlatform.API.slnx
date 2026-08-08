@@ -160,6 +160,9 @@
   <Folder Name="/Services/Storage/" />
   <Folder Name="/Services/Users/" />
   <Folder Name="/Services/Vacancies/" />
+  <Folder Name="/Solution Items/">
+    <File Path=".gitignore" />
+  </Folder>
   <Folder Name="/Storage/">
     <File Path=".gitkeep14" />
   </Folder>
